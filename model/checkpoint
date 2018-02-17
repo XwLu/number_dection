@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/luyifan/Project/number_detection/model/model.ckpt"
+all_model_checkpoint_paths: "/home/luyifan/Project/number_detection/model/model.ckpt"
